@@ -3,6 +3,12 @@
 <p><em>A french software engineering student</em></p>
 <br>
 
+👇 Hit this command in your console or terminal to connect with me 👇
+
+```bash
+npx maeldonn
+```
+
 ```javascript
 {
   'name': 'Maël',
