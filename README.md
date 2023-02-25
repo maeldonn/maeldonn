@@ -12,7 +12,7 @@ npx maeldonn
 ```javascript
 {
   'name': 'Maël',
-  'age': '24',
+  'age': '25',
   'country': 'France',
   'gender': 'male',
   'passions': ['dev', 'rugby', 'coffee'],
