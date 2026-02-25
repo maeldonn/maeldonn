@@ -6,7 +6,7 @@
 ```javascript
 {
   'name': 'Maël',
-  'age': '26',
+  'age': '28',
   'country': 'France',
   'gender': 'male',
   'passions': ['dev', 'rugby', 'coffee'],
