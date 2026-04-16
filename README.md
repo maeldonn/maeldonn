@@ -1,16 +1,15 @@
-<h2> Hi, I'm Maël !</h2>
-<img align='right' src="https://i.pinimg.com/originals/48/e3/03/48e303bf57f8ad627c73a0e0e30f5f33.gif" width="230">
-<p><em>I'm a french software engineer</em></p>
-<br>
+<pre>
+                       maeldonn@github
+                       -----------
+                       OS:        Human 28.0
+  __  __     _         Host:      Rennes, France 🇫🇷
+ |  \/  |   | |        Kernel:    Software Engineer
+ | \  / | __| |
+ | |\/| |/ _` |        Field:     Backend 
+ | |  | | (_| |_       Area:      Distributed systems & storage
+ |_|  |_|\__,_(_)      Editor:    Neovim
 
-```javascript
-{
-  'name': 'Maël',
-  'age': '28',
-  'country': 'France',
-  'gender': 'male',
-  'passions': ['dev', 'rugby', 'coffee'],
-  'address': 127.0.0.1,
-  'website': 'https://maeldonn.github.io'
-}
-```
+                       Uptime:    Coffee powered ☕
+                       Hobbies:   Running & Rugby 🏃🏉
+                       Website:   maeldonn.github.io
+</pre>
